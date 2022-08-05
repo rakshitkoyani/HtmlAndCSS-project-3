@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Your justice ](./Project-3.png)
+![Your justice ](./project-3.png)
 
 ## Run Locally
 
